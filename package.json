@@ -1,0 +1,8 @@
+{
+  "name": "SLSmanagementSystem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FOXHOUND-Ogasawara/SLSmanagementSystem.git",
+  "author": "Atsushi Ogasawara <atsushi.ogasawara@fox-hound.jp>",
+  "license": "MIT"
+}
